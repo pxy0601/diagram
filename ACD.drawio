@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T15:03:42.863Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="14.1.8" etag="ucPpwUIn1nw7oe9FdFEo" type="github"><diagram id="Ou4xF7b0gQ1RGQtxeFuU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-09T16:42:09.195Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="4p_OrNiWWHNIckVNPLoq" version="14.1.8" type="github">
+  <diagram id="Ou4xF7b0gQ1RGQtxeFuU" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="120" width="286" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsfIX4KevXFK1d7RPmV9-2" target="GsfIX4KevXFK1d7RPmV9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-2" value="Tomcat server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="175" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsfIX4KevXFK1d7RPmV9-3" target="GsfIX4KevXFK1d7RPmV9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-3" value="&lt;ul&gt;&lt;li&gt;Blog.html&lt;/li&gt;&lt;li&gt;Fans.html&lt;/li&gt;&lt;li&gt;Follow.html&lt;/li&gt;&lt;li&gt;forum.html&lt;/li&gt;&lt;li&gt;index.html&lt;/li&gt;&lt;li&gt;login.html&lt;/li&gt;&lt;li&gt;Manage.html&lt;/li&gt;&lt;li&gt;Message.html&lt;/li&gt;&lt;li&gt;OtherPhoto.html&lt;/li&gt;&lt;li&gt;Picture.html&lt;/li&gt;&lt;li&gt;Register.html&lt;/li&gt;&lt;li&gt;SearcgResult.html&lt;/li&gt;&lt;li&gt;Upload.html&lt;/li&gt;&lt;li&gt;Userinfor.html&lt;/li&gt;&lt;li&gt;UserPage.html&lt;/li&gt;&lt;li&gt;Wallet.html&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-7" value="mysql database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="893" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-16" value="PublishHandler" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GsfIX4KevXFK1d7RPmV9-17" value="«interface»&lt;br&gt;&lt;b&gt;PublishService&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="500" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
