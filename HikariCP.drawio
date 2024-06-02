@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T02:51:21.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QCDZc2rK5fyMFcoQ_1e8" version="23.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-02T06:48:12.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JB52j6DXm4Yr2XyNdy9t" version="24.4.13" type="github" pages="2">
   <diagram name="继承关系" id="Ao6GckLbddUeRnAB5THA">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UKKDm44GWge5Y3tY6Zo_" name="第 2 页">
-    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,11 +137,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbKXx8si0z0ONCbY8_ne-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tbKXx8si0z0ONCbY8_ne-46" target="tbKXx8si0z0ONCbY8_ne-28" edge="1">
+        <mxCell id="bzkA7amSLU2AeAHoLlgX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tbKXx8si0z0ONCbY8_ne-46" target="tbKXx8si0z0ONCbY8_ne-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tbKXx8si0z0ONCbY8_ne-46" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;add connection&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="206" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tbKXx8si0z0ONCbY8_ne-52" value="&lt;font color=&quot;#f11809&quot;&gt;当前有线程尝试poll()&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#f11809&quot;&gt;获取连接--等待线程数&amp;gt;0&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="62.5" y="850" width="187.5" height="30" as="geometry" />
