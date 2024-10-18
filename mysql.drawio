@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="RDACrVmDpa7mAabJvp7D">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1227" pageHeight="1369" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-19" value="row_data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-25" value="delete_flag=1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-26" value="DB_TRX_ID=4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q0txGPLoZDyo8EQ0v6bI-27" target="q0txGPLoZDyo8EQ0v6bI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-27" value="DB_ROLL_PTR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-28" value="row_data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-29" value="delete_flag=0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-30" value="DB_TRX_ID=3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-31" value="DB_ROLL_PTR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-33" value="MVCC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-34" value="当前未提交事务：4，20&lt;div&gt;up_limit_id=4&lt;/div&gt;&lt;div&gt;low_limit_id=21&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="173" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0txGPLoZDyo8EQ0v6bI-35" value="事务4未提交，对事务20不可见" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="265" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
