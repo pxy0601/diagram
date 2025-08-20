@@ -1,74 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2024-08-04T03:42:02.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BQqimqknP_dHIe8YaRa-" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="28.0.9">
   <diagram name="第 1 页" id="ZK2xY_rVGlGZKuKayVDl">
-    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1227" pageHeight="1369" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1227" pageHeight="1369" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="70" width="470" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="430" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-3" value="程序计数器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-3" value="程序计数器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-4" value="虚拟机栈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-4" value="虚拟机栈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-5" value="本地方法栈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-5" value="本地方法栈" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-7" value="eden" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-7" value="eden" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-8" value="s0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-8" value="s0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-9" value="s1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-9" value="s1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="110" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-10" value="old" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-10" value="old" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="110" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-11" value="字符串常量池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-11" value="字符串常量池" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-12" value="堆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-12" value="堆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="370" y="70" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-13" value="运行时数据区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-13" value="运行时数据区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="170" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="380" width="480" height="210" as="geometry" />
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="380" width="440" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-15" value="本地内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-15" value="本地内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="35" y="480" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="420" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-17" value="运行时常量池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-17" value="运行时常量池" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="220" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-18" value="Metaspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-18" value="Metaspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="230" y="420" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="420" width="210" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-20" value="直接内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="465" y="420" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-21" value="-Xms512M：设置堆初始内存为512M&lt;div&gt;-Xmx5120M：设置堆最大内存为5120M&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-21" value="-Xms512M：设置堆初始内存为512M&lt;div&gt;-Xmx5120M：设置堆最大内存为5120M&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="110" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-22" value="-XX:MetaspaceSize=N&lt;div&gt;&lt;br&gt;&lt;div&gt;-XX:MaxMetaspaceSize=N&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-XX:MaxDirectMemorySize=N&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-22" value="-XX:MetaspaceSize=N&lt;div&gt;&lt;br&gt;&lt;div&gt;-XX:MaxMetaspaceSize=N&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-XX:MaxDirectMemorySize=N&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="665" y="395" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ycy-HMLIFF-go-0dgFnZ-23" value="若设置MaxDirectMemorySize为0，则限制量默认为最大堆内存的85%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="620" width="390" height="30" as="geometry" />
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-23" value="若设置MaxDirectMemorySize为0，则限制量默认为最大堆内存的85%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="470" y="710" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qADkDZcI15W8GKwKRA4k-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="660" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="qADkDZcI15W8GKwKRA4k-1" vertex="1">
+          <mxGeometry width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ycy-HMLIFF-go-0dgFnZ-20" value="直接内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="qADkDZcI15W8GKwKRA4k-1" vertex="1">
+          <mxGeometry x="45" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qADkDZcI15W8GKwKRA4k-2" value="类加载器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qADkDZcI15W8GKwKRA4k-3" value="垃圾回收器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
